@@ -23,7 +23,7 @@ The excercise is divided into three parts:
 
 ![svm_strategy_returns](Images/svm_strategy_returns.png)
 
-Conclusions on performance of baseline algorithm: The baseline algorithm classification report shows an accuracy of 55% which seems to be low and hence some fine tuning of input parameters are needed to make this algo more accurate. The Strategy returns were quite close to actual returns until 2018, howwever the algo returns increased after 2020 and predicted better returns,
+# Conclusions on performance of baseline algorithm: The baseline algorithm classification report shows an accuracy of 55% which seems to be low and hence some fine tuning of input parameters are needed to make this algo more accurate. The Strategy returns were quite close to actual returns until 2018, howwever the algo returns increased after 2020 and predicted better returns,
 
 
 ### Tune the Baseline Trading Algorithm
@@ -45,7 +45,7 @@ Que. What impact resulted from increasing or decreasing either or both of the SM
 
 Ans. By increasing the long tading window to 100 days the accuracy increased a bit, howvwer the startegy returns were same as the actual returns.
 
-Conclusions: Tuning the SMA windows resulted in a better model but tuning the training data dint do any changes in existing model.
+# Conclusions: Tuning the SMA windows resulted in a better model but tuning the training data dint do any changes in existing model.
 
 
 ### Evaluate a New Machine Learning Classifier
